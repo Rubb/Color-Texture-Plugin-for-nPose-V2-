@@ -1,5 +1,7 @@
 # Color-Texture-Plugin
 
+If you use nPose V3 or newer, please use the [Prim Params Editor plugin](https://github.com/nPoseTeam/Prim-Params-Editor-plugin)
+
 nPose Color/Texture rev. 0.05:                  
         
 New Features:
